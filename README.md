@@ -12,6 +12,7 @@ Most of my projects start from the same question: what can run on the user's mac
 | **[Cadence for macOS](https://github.com/alexandryasukaitisss-cmd/cadence-macos)** | A native SwiftUI browser for your Apple Music library. Playback stays in Music.app; no Electron. |
 | **[Apartment Studio](https://github.com/alexandryasukaitisss-cmd/apartment-studio)** | Local renovation planner with 2D/3D, finishes, furniture, electrical layers, estimates, and project import. [Live demo](https://alexandryasukaitisss-cmd.github.io/apartment-studio/). |
 | **[personal-context-mcp](https://github.com/alexandryasukaitisss-cmd/personal-context-mcp)** | Bounded read-only MCP context for browser assistants: allowlisted sessions, redaction, no write tools. |
+| **[Embedding Contract](https://github.com/alexandryasukaitisss-cmd/embedding-contract)** | Provider-neutral vector identity and safe backfill for agent memory. Local Gemma via Ollama; explicit Gemini adapter. |
 | **[Codex Blind Eval](https://github.com/alexandryasukaitisss-cmd/codex-blind-eval)** | Blind A/B comparisons for Codex instructions and model settings. |
 | **[UX/UI Quality](https://github.com/alexandryasukaitisss-cmd/ux-ui-quality)** | A Codex skill for UX/UI reviews sized to the change. |
 | **[MemPalace Retrieval](https://github.com/alexandryasukaitisss-cmd/mempalace-retrieval)** | Permission-first agent memory retrieval with rank fusion, stale-fact rejection, and evidence-based abstention. |
