@@ -8,7 +8,7 @@ Most of my projects start from the same question: what can run on the user's mac
 
 | Project | What it is |
 | --- | --- |
-| **[Browser Guard MCP](https://github.com/alexandryasukaitisss-cmd/browser-guard-mcp)** | Capability-scoped browser access for MCP agents: public-only navigation, one-use approval for secrets, secret-upload denial, in-memory evidence, content-free ledger. |
+| **[Browser Guard MCP](https://github.com/alexandryasukaitisss-cmd/browser-guard-mcp)** | Capability-scoped browser access for MCP agents. [Site](https://alexandryasukaitisss-cmd.github.io/browser-guard-mcp/). |
 | **[Cadence for macOS](https://github.com/alexandryasukaitisss-cmd/cadence-macos)** | A native SwiftUI browser for your Apple Music library. Playback stays in Music.app; no Electron. |
 | **[Apartment Studio](https://github.com/alexandryasukaitisss-cmd/apartment-studio)** | Local renovation planner with 2D/3D, finishes, furniture, electrical layers, estimates, and project import. [Live demo](https://alexandryasukaitisss-cmd.github.io/apartment-studio/). |
 | **[personal-context-mcp](https://github.com/alexandryasukaitisss-cmd/personal-context-mcp)** | Bounded read-only MCP context for browser assistants: allowlisted sessions, redaction, no write tools. |
